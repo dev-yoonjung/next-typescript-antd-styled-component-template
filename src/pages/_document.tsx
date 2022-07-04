@@ -36,7 +36,9 @@ export default class AppDocument extends Document {
   render(): JSX.Element {
     return (
       <Html lang="ko">
-        <Head />
+        <Head>
+          <link href="/antd/min.css" rel="stylesheet" />
+        </Head>
         <body>
           <Main />
           <NextScript />
