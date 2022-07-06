@@ -5,6 +5,7 @@ const nextConfig = {
   compiler: {
     styledComponents: true,
   },
+  transpilePackages: ['antd'],
 }
 
 module.exports = nextConfig
