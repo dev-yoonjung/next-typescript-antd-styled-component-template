@@ -15,7 +15,7 @@ export default function Home() {
       <Result
         icon={<SmileOutlined />}
         title="Hello, World!"
-        extra="This is Next.js app template with antd and styled-component"
+        extra="This is Next.js app template with ant-design and styled-components"
       />
     </Container>
   )
