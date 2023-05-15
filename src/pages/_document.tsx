@@ -37,7 +37,7 @@ export default class AppDocument extends Document {
     return (
       <Html lang="ko">
         <Head>
-          <link href="/antd/min.css" rel="stylesheet" />
+          <link href="/antd.min.css" rel="stylesheet" />
         </Head>
         <body>
           <Main />
