@@ -4,7 +4,7 @@
 
 <span>
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg" alt="typescript">
-<img src="https://img.shields.io/badge/Node-18.12.1-339933.svg" alt="nodejs">
+<img src="https://img.shields.io/badge/Node-18.12.0-339933.svg" alt="nodejs">
 <img src="https://img.shields.io/badge/React-18.2.0-61DAFB.svg" alt="react">
 <img src="https://img.shields.io/badge/Next-13.3.0-000000.svg" alt="nextjs" />
 <img src="https://img.shields.io/badge/ant--design-5.4.5-EF443B.svg" alt="antd" />
