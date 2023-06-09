@@ -1,4 +1,4 @@
-# Next.js Starter KIt with ant-design and styled-components
+# Next.js Starter Kit with ant-design and styled-components
 
 <br/>
 
